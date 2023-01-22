@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld and such</string>
+    <string name="mason_curse">This is a photo of me taken on March 22nd, 2018. It was taken by my good friend Kristina in high school. Legend says anyone in possesion of this image will be forever cursed by a deep, ancient evil. By being in posession of this android application, a dark fate has befallen you, my friend...</string>
+    <string name="make_curse_worse">Make Curse Worse</string>
+</resources>
